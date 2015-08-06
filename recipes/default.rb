@@ -75,7 +75,7 @@ end
 
 cookbook_file "/opt/airfield/public/img/glyphicons-halflings.png" do
   source "glyphicons-halflings.png"
-  mode 0755
+  mode 0644
 end
 
 cookbook_file "/opt/airfield/scripts/start" do
