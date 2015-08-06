@@ -8,8 +8,8 @@ This cookbook makes your favorite breakfast sandwich.
 Requirements
 ------------
 #### packages
-- `git
--  nodjs
+-  git
+-  nodejs
 
 Attributes
 ----------
