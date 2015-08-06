@@ -2,8 +2,6 @@ app-airfield Cookbook
 =====================
 Installs and configures airfield web manager for the hipache traffic director.
 
-e.g.
-This cookbook makes your favorite breakfast sandwich.
 
 Requirements
 ------------
