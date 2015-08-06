@@ -1,0 +1,13 @@
+default['airfield']['admin_user'] = 'admin'
+default['airfield']['admin_pass'] = 'kissa2'
+default['airfield']['listen_port'] = 3000
+default['airfield']['cookie_secret'] = "thisissecret"
+default['airfield']['session_secret'] = "secretisthistoo"
+default['airfield']['openstack'] = false
+default['airfield']['openstack_user'] ="admin"
+default['airfield']['openstack_password'] = "goodopenstackpassword"
+default['airfield']['openstack_tenant'] = "tenantidofinstances"
+default['airfield']['openstack_keystone_url'] ="http://10.0.0.1:5000"
+default['airfield']['openstack_nova_url'] = "http://10.0.0.1:8774"
+default['airfield']['redis_port'] = 6379
+default['airfield']['redis_host'] = '127.0.0.1'
